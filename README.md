@@ -26,6 +26,7 @@ This is a Python wrapper around the [API](https://flutterwavedevelopers.readme.i
 * Transfer Recipients
 * Virtual Cards
 * Virtual Accounts
+* OTP
 
 ## Installation
 To install, run
